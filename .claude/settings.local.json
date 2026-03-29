@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Capli/.claude/**)",
+      "Bash(mkdir -p \"d:/Projects/Claude/NewSkills/dream/.claude/commands\")",
+      "Bash(mv \"d:/Projects/Claude/NewSkills/dream/dream.md\" \"d:/Projects/Claude/NewSkills/dream/.claude/commands/dream.md\")"
+    ]
+  }
+}
